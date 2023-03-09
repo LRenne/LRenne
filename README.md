@@ -22,6 +22,8 @@
   ## Connect with me:
 <div align="center">
 
+<a>Email: lucas.rene@hotmail.com <a/>
+	
 <a href="https://www.linkedin.com/in/lucas-rene-88b650145/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>  
