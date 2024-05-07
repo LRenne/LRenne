@@ -1,6 +1,6 @@
 <h1 align="center"> Hello There, I'm Lucas</h1>
 
-<h3 align="center">I'm a Full Stack Web Developer student, who love technologies, and Games!</h3>
+<h3 align="center">I'm a Full Stack Web Developer, who love technologies, and Games!</h3>
 
 ##
 
